@@ -1,2 +1,3 @@
-# Simple-Login
-An extremely simple login window i made in 2019
+An extremely simple login window I made in 2020
+
+Requires .net
